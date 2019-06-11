@@ -15,6 +15,6 @@ Three speaker recognition systems are respectively under the corresponding files
 
  In addition to the three model introductions, we have also published our database on the Zenodo ,
  the detailed address is: https://zenodo.org/record/3241566
- Data description in the data folder。
+ Data description in the data folder.
  
  Then, give the results of all trials files and corresponding model generation.
