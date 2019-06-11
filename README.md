@@ -3,6 +3,7 @@ paper: Addressing Text-dependent Speaker Verification Using Singing Speech
 
 This document is intended to introduce the system and data of the paper.
 Three speaker recognition systems are respectively under the corresponding files
+	
 	1.GMM system
 		GMM model based on Alize platform
 	2.X-vector
